@@ -1,0 +1,51 @@
+baseURL = "https://example.com/"
+languageCode = "en"
+title = "Initio - Free, multipurpose html5 template by GetTemplate"
+theme = "hugo-initio"
+
+[params]
+    name = "WeiRen Chi"
+    
+    email = "waylenmu@gmail.com"
+    
+    
+    year = 2024
+    avatar = "images/guy.jpg"
+    avatarclass = "circle"
+    background = ""
+    banner = "images/bg_head.jpg"
+    favicon = "images/gt_favicon.png"
+    DateForm = "January 2, 2006"
+    author = "Sergey Pozhilov (GetTemplate.com)"
+
+    showSubheader = true
+    showServices = false
+    showRecentWorks = true
+    showDownloads = false
+    showClients = false
+
+    showFooterContact = true
+    showFooterFollowMe = true
+    showFooterTextWidget = true
+    showFooterFormWidget = true
+
+
+[params.disqus]
+    site = "hugo-initio-site.disqus.com"
+
+[params.sharethis]
+    property = "123456789012345678901234"
+    custom = true
+
+[params.google.analytics]
+    trackerID = "GA-000000000-0"
+
+
+[[params.social]]
+	title = "github"
+	url = "https://github.com/MuChi2112"
+    icon = "fab fa-github"
+    footer = true
+    sharethis = false
+    network = ""
+
