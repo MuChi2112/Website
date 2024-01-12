@@ -1,9 +1,6 @@
 +++
-title = "SEO & SEM services"
+title = "Kaggle"
+image = "images/Kaggle.png"
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
-
-<!--more-->
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Kaggle is a platform for data science and machine learning, offering competitions, datasets, and notebooks. It allows users to solve real-world problems, learn and apply data science techniques, and collaborate with a global community. Kaggle is widely used for developing and sharing models and analyses.

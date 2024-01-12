@@ -19,15 +19,15 @@ theme = "hugo-initio"
     author = "Sergey Pozhilov (GetTemplate.com)"
 
     showSubheader = true
-    showServices = false
+    showServices = true
     showRecentWorks = true
     showDownloads = false
     showClients = false
 
     showFooterContact = true
     showFooterFollowMe = true
-    showFooterTextWidget = true
-    showFooterFormWidget = true
+    showFooterTextWidget = false
+    showFooterFormWidget = false
 
 
 [params.disqus]

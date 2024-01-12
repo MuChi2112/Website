@@ -1,9 +1,10 @@
 +++
-title = "Application development"
+title = "Leetcode"
+
+image = "https://leetcard.jacoblin.cool/Muchi?theme=light&font=Noto%20Sans%20Nabataean"
+
+weight = 2
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
 
-<!--more-->
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+LeetCode is a popular online platform for coding practice and technical interview preparation. It offers a vast collection of coding challenges in various programming languages, focusing on algorithms, data structures, and database queries. Users can enhance their coding skills, compete in contests, and engage with a community of programmers.
