@@ -1,0 +1,23 @@
+<div class="row">
+  {{ range where .Data.Pages "Section" .Section }}
+
+  <div style="display:flex;  border-radius: 10px; justify-content:center;  margin-bottom:20px;
+    
+  box-shadow: 
+    0 0 2px #D3D3D3, /* 最里面的阴影 */
+    0 0 4px #D3D3D3, /* 第二层阴影 */
+    0 0 6px rgba(211, 211, 211, 0.6), /* 第三层阴影，透明度减小 */
+    0 0 8px rgba(211, 211, 211, 0.4), /* 第四层阴影，透明度更小 */
+    0 0 10px rgba(211, 211, 211, 0.2); /* 最外面的阴影，透明度最小 */">
+    <img style="margin:20px; height: 300px; width : 450px; " src="{{ .Params.image }}">
+    <div
+      style="display:flex; justify-content:center; align-items:center; flex-direction: column;  margin:10px; margin-left:20px; width:100%;">
+
+      <h1 style="color:#524c9f;  ">{{ .Title }}</h1>
+      <p>{{ .Summary }}</p>
+
+    </div>
+  </div>
+
+  {{ end }}
+</div>
