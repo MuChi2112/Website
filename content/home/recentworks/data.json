@@ -24,6 +24,10 @@
             {
                 "name": "Github",
                 "url": "https://github.com/MuChi2112/number-detector"
+            },
+            {
+                "name": "Download",
+                "url": "https://github.com/MuChi2112/number-detector/releases/tag/v1.0.0"
             }
         ]
     }

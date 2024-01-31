@@ -3,4 +3,5 @@ type = "subheader"
 title = ""
 +++
 
-Let me tell you something my friend. hope is a dangerous thing. hope can drive a man insane. you [measure](/about) yourself by the people who measure themselves by you. it only took me [six days](/sidebar-right).
+
+Every code I write is a step in my journey, from mastering algorithms in USACO competitions to exploring the realms of C++, Python, front-end, and back-end development, docker and AI innovations. It's not just about solving problems, it's about creating a future where technology empowers us all.

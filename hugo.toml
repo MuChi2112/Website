@@ -10,7 +10,7 @@ theme = "hugo-initio"
     
     
     year = 2024
-    avatar = "images/guy.jpg"
+    avatar = "images/profile.png"
     avatarclass = "circle"
     background = ""
     banner = "images/bg_head.jpg"
