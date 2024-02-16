@@ -30,5 +30,33 @@
                 "url": "https://github.com/MuChi2112/number-detector/releases/tag/v1.0.0"
             }
         ]
+    },
+    {
+        "id": 2,
+        "name": "Human-Detector-YOLO-5",
+        "image": "images/readme_pic.jpg",
+        "url": "https://github.com/MuChi2112/Human-Detector-YOLO-5",
+        "items": [
+            {
+                "name": "Github",
+                "url": "https://github.com/MuChi2112/Human-Detector-YOLO-5"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Animal-Detector",
+        "image": "images/Animal_Decetor.png",
+        "url": "https://github.com/MuChi2112/Animal_Detector",
+        "items": [
+            {
+                "name": "Github",
+                "url": "https://github.com/MuChi2112/Animal_Detector"
+            },
+            {
+                "name": "Download",
+                "url": "https://github.com/MuChi2112/Animal_Detector/releases/tag/v1.0.0"
+            }
+        ]
     }
 ]
