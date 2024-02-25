@@ -58,5 +58,29 @@
                 "url": "https://github.com/MuChi2112/Animal_Detector/releases/tag/v1.0.0"
             }
         ]
+    },
+    {
+        "id": 4,
+        "name": "yt-dlp_backup(.ts file to mp4)",
+        "image": "images/ytdlp_backup.png",
+        "url": "https://github.com/MuChi2112/yt-dlp_Backup/tree/main",
+        "items": [
+            {
+                "name": "Github",
+                "url": "https://github.com/MuChi2112/yt-dlp_Backup/tree/main"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Text Art Generator",
+        "image": "images/text_art_genator.png",
+        "url": "https://github.com/MuChi2112/Text-Art-Generator",
+        "items": [
+            {
+                "name": "Github",
+                "url": "https://github.com/MuChi2112/Text-Art-Generator"
+            }
+        ]
     }
 ]
